@@ -1,4 +1,4 @@
-# PHP Blog API (Naitive PHP)
+# PHP Blog API (Native PHP)
 This repository contains an API to serve blog posts.
 
 ## Technologies Used
